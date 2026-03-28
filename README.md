@@ -1,11 +1,13 @@
 # 📊 Retail Sales Performance Analysis Dashboard
 ### End-to-End Data Analytics Project · Excel + Pivot Tables
 
-![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Tool](https://img.shields.io/badge/Tool-Pivot%20Tables-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Language](https://img.shields.io/badge/Language-Excel%20Formulas-F4B400?style=flat&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-2ECC71?style=flat&logoColor=white)
-![Dataset](https://img.shields.io/badge/Dataset-Superstore%20Kaggle-E74C3C?style=flat&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-0D6EFD?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Feature](https://img.shields.io/badge/Feature-Pivot%20Tables-6F42C1?style=flat-square&logoColor=white)
+![Feature](https://img.shields.io/badge/Analysis-Time%20Series-6F42C1?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-198754?style=flat-square&logoColor=white)
+![Dataset](https://img.shields.io/badge/Dataset-Superstore%20Kaggle-DC3545?style=flat-square&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2D2D2D)
+![Dashboard](https://img.shields.io/badge/Dashboard-00BCD4)
 
 ---
 
