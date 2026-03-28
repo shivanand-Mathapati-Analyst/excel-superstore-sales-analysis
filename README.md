@@ -1,27 +1,32 @@
 # 📊 Retail Sales Performance Analysis Dashboard
+### End-to-End Data Analytics Project · Excel + Pivot Tables
 
-> **An end-to-end Excel data analytics project delivering business insights from ~10K retail transactions — featuring data modeling, KPI engineering, time-series analysis, and an interactive executive dashboard.**
+![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Pivot%20Tables-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Excel%20Formulas-F4B400?style=flat&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-2ECC71?style=flat&logoColor=white)
+![Dataset](https://img.shields.io/badge/Dataset-Superstore%20Kaggle-E74C3C?style=flat&logoColor=white)
+
 ---
 
-
-## 📌 Table of Contents
+## 🗂️ Table of Contents
 
 - [Business Impact](#-business-impact)
 - [Key Highlights](#-key-highlights)
-- [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
-- [Dataset](#dataset)
-- [Tools & Techniques](#tools--techniques)
-- [Project Workflow](#project-workflow)
-- [Skills Demonstrated](#skills-demonstrated-)
-- [Key KPIs](#key-kpis-)
-- [Key Findings & Insights](#key-findings--insights-)
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Dataset](#-dataset)
+- [Tools & Techniques](#️-tools--techniques)
+- [Project Workflow](#-project-workflow)
+- [Skills Demonstrated](#️-skills-demonstrated)
+- [Key KPIs](#-key-performance-indicators)
+- [Key Findings & Insights](#-key-findings--insights)
 - [Dashboard Preview](#-dashboard-preview)
-- [Business Recommendations](#business-recommendations)
-- [Excel Formulas Used](#excel-formulas-used)
-- [File Structure](#file-structure)
-- [How to Use](#how-to-use)
-- [Connect With Me](#connect-with-me)
+- [Business Recommendations](#-business-recommendations)
+- [Excel Formulas Used](#-excel-formulas-used)
+- [File Structure](#-file-structure)
+- [How to Use](#-how-to-use)
+- [Connect With Me](#-connect-with-me)
 
 ---
 
@@ -34,7 +39,7 @@
 
 ---
 
-## ⭐ Key Highlights
+## 🧠 Key Highlights
 
 - 📊 Analyzed **9,994 retail transactions** (2014–2017)
 - 💰 Generated insights on **$2.29M revenue & $286K profit**
@@ -45,7 +50,7 @@
 
 ---
 
-## Project Overview
+## 🏡 Project Overview
 
 This project performs a comprehensive **Retail Sales Performance Analysis** on a U.S. superstore dataset spanning **2014–2017**. The goal is to uncover revenue drivers, profitability gaps, seasonal trends, and customer behavior patterns — and present them through a dynamic, executive-ready Excel dashboard.
 
@@ -61,7 +66,7 @@ This project performs a comprehensive **Retail Sales Performance Analysis** on a
 
 ---
 
-## Business Problem
+## 💼 Business Problem
 
 The management team needed a centralized dashboard to quickly understand:
 
@@ -75,7 +80,7 @@ The goal was to provide **data-driven insights** that support strategic decision
 
 ---
 
-## Dataset
+## 📦 Dataset
 
 **Source:** Superstore Sales Dataset (Kaggle)
 
@@ -100,7 +105,7 @@ The dataset contains sales transactions from a U.S. retail company. Each row rep
 
 ---
 
-## Tools & Techniques
+## 🛠️ Tools & Techniques
 
 | Tool / Technique | Purpose |
 |---|---|
@@ -114,7 +119,7 @@ The dataset contains sales transactions from a U.S. retail company. Each row rep
 
 ---
 
-## Project Workflow
+## 🔄 Project Workflow
 
 ```
 Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis  →  Dashboard  →  Business Insights
@@ -122,7 +127,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## Skills Demonstrated 💼
+## 🛠️ Skills Demonstrated
 
 **1. 🧹 Data Cleaning & Preparation**
 - Removed leading/trailing whitespace from customer names using `TRIM()`
@@ -161,7 +166,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## Key KPIs 🎯
+## 📊 Key Performance Indicators
 
 | KPI | Value |
 |---|---|
@@ -180,7 +185,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## Key Findings & Insights 📈
+## 📈 Key Findings & Insights 
 
 ### 🗺️ Regional Performance
 | Region | Total Sales |
@@ -248,7 +253,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## 📊 Dashboard Preview
+## 📸 Dashboard Preview
 
 > 📂 Open the `.xlsx` file and navigate to the **📊 Sales_Performance_Dashboard** sheet to interact with the full dashboard including slicers and dynamic charts.  
 > 📌 The dashboard provides an interactive, executive-level view of retail sales performance.  
@@ -273,7 +278,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## Business Recommendations
+## 💡 Business Recommendations
 
 | Key Finding | Recommendation |
 |---|---|
@@ -290,7 +295,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## Excel Formulas Used
+## 📐 Excel Formulas Used
 
 ### 🧹 Data Cleaning (Cleaned_Data Sheet)
 
@@ -354,7 +359,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## File Structure
+## 📁 File Structure
 
 ```
 📁 Retail-Sales-Performance-Analysis/
@@ -374,7 +379,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## How to Use
+## 🚀 How to Use
 
 1. **Download** the `.xlsx` file from this repository
 2. **Open** it in Microsoft Excel (2016 or later recommended)
@@ -387,7 +392,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 Feel free to reach out for opportunities, feedback or collaboration!
 
