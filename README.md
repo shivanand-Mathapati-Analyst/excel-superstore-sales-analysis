@@ -1,13 +1,13 @@
-# 📊 Retail Sales Performance Analysis Dashboard
-### End-to-End Data Analytics Project · Excel + Pivot Tables
+# 📊 Superstore Sales Performance Analysis — Excel Dashboard
 
-![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-0D6EFD?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Feature](https://img.shields.io/badge/Feature-Pivot%20Tables-6F42C1?style=flat-square&logoColor=white)
-![Feature](https://img.shields.io/badge/Analysis-Time%20Series-6F42C1?style=flat-square&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-198754?style=flat-square&logoColor=white)
-![Dataset](https://img.shields.io/badge/Dataset-Superstore%20Kaggle-DC3545?style=flat-square&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2D2D2D)
-![Dashboard](https://img.shields.io/badge/Dashboard-00BCD4)
+### End-to-end retail sales dashboard built with Advanced Pivot Tables on the Sample Superstore dataset
+
+
+[![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
+[![Pivot Tables](https://img.shields.io/badge/Feature-Pivot%20Tables-2E7D32?style=for-the-badge)](#)
+[![Analysis](https://img.shields.io/badge/Analysis-Time%20Series-blue?style=for-the-badge)](#)
+[![Dataset](https://img.shields.io/badge/Dataset-Superstore%20Kaggle-orange?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 
 ---
 
