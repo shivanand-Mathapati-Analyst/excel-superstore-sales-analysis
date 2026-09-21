@@ -56,6 +56,11 @@
 
 This project performs a comprehensive **Retail Sales Performance Analysis** on a U.S. superstore dataset spanning **2014–2017**. The goal is to uncover revenue drivers, profitability gaps, seasonal trends, and customer behavior patterns — and present them through a dynamic, executive-ready Excel dashboard.
 
+**This project is part of a three-tool analytics portfolio built on the same Superstore dataset.**
+
+This project uses the same Superstore dataset as my [SQL Server](https://github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis) and [Power BI](https://github.com/shivanand-Mathapati-Analyst/powerbi-superstore-sales-analysis) projects, demonstrating how the same business problem can be analyzed and solved using three different analytics tools: Excel, SQL Server, and Power BI.
+
+
 | Metric | Value |
 |---|---|
 | 📅 Period | 2014 – 2017 |
