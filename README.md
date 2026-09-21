@@ -32,26 +32,6 @@
 
 ---
 
-## 🚀 Business Impact
-
-- Identified top-performing regions contributing over **60% of total revenue**
-- Detected loss-making sub-categories, enabling **profit optimization opportunities**
-- Revealed seasonal demand trends to improve **inventory and marketing planning**
-- Quantified discount impact leading to **better pricing strategies**
-
----
-
-## 🧠 Key Highlights
-
-- 📊 Analyzed **9,994 retail transactions** (2014–2017)
-- 💰 Generated insights on **$2.29M revenue & $286K profit**
-- 📈 Built **MoM & YoY growth analysis**(mini dashboard)
-- 🧠 Created **12+ business KPIs**
-- 📊 Designed an **interactive Excel dashboard with slicers**
-- 💡 Delivered **actionable business recommendations**
-
----
-
 ## 🏡 Project Overview
 
 This project performs a comprehensive **Retail Sales Performance Analysis** on a U.S. superstore dataset spanning **2014–2017**. The goal is to uncover revenue drivers, profitability gaps, seasonal trends, and customer behavior patterns — and present them through a dynamic, executive-ready Excel dashboard.
@@ -70,6 +50,27 @@ This project uses the same Superstore dataset as my [SQL Server](https://github.
 | 💰 Total Revenue | $2,297,200 |
 | 📈 Total Profit | $286,397 |
 | 📊 Profit Margin | 12.47% |
+
+---
+
+## 🚀 Business Impact
+
+- Identified top-performing regions contributing over **60% of total revenue**
+- Detected loss-making sub-categories, enabling **profit optimization opportunities**
+- Revealed seasonal demand trends to improve **inventory and marketing planning**
+- Quantified discount impact leading to **better pricing strategies**
+
+---
+
+## 🧠 Key Highlights
+
+- 📊 Analyzed **9,994 retail transactions** (2014–2017)
+- 💰 Generated insights on **$2.29M revenue & $286K profit**
+- 📈 Built **MoM & YoY growth analysis**(mini dashboard)
+- 🧠 Created **12+ business KPIs**
+- 📊 Designed an **interactive Excel dashboard with slicers**
+- 💡 Delivered **actionable business recommendations**
+
 
 ---
 
