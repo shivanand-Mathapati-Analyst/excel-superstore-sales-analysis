@@ -213,7 +213,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 | Furniture | $741,999 | $18,451 |
 | Office Supplies | $719,047 | $122,491 |
 
-- **Technology** leads both **sales (~$836K) and profit (~$145K)** → highest value-generating category.
+- **Technology** leads both sales ($836K) and profit ($145K) → highest value-generating category.
 - **Furniture** generates strong revenue but low profit (~$18K) → margin issue category.
 
 ### 👤 Customer Segments
@@ -256,7 +256,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 | First Class | $3,51,428 |
 | Same Day | $1,28,363 |
 
-- **Standard Class** drives the majority of **sales (~$1.35M) and profit (~$164K)**.
+- **Standard Class** drives the majority of **sales ($1.35M) and profit ($164K)**.
 - **Same Day** shipping has lowest sales (~$128K) despite fastest delivery → limited usage or higher cost.
 
 ---
