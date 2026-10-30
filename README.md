@@ -256,7 +256,7 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 | First Class | $3,51,428 |
 | Same Day | $1,28,363 |
 
-- **Standard Class** drives the majority of sales (~$1.35M) and profit (~$164K).
+- **Standard Class** drives the majority of **sales (~$1.35M) and profit (~$164K)**.
 - **Same Day** shipping has lowest sales (~$128K) despite fastest delivery → limited usage or higher cost.
 
 ---
