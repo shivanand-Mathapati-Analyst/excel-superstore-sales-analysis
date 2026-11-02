@@ -399,6 +399,23 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 > ⚠️ **Note:** For the best experience with slicers and pivot charts, open with Microsoft Excel (not Google Sheets or LibreOffice).
 
 ---
+## 🔗 Related Projects
+
+Part of a multi-tool Superstore Sales Analysis, built on the same Sample Superstore dataset:
+
+| Project | Tool | Link |
+|---|---|---|
+| 📊 Superstore Sales Analysis | Power BI | [github.com/shivanand-Mathapati-Analyst/powerbi-sales-analysis-project](https://github.com/shivanand-Mathapati-Analyst/powerbi-superstore-sales-analysis) |
+| 🗄️ Superstore Sales Analysis | SQL Server | [github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis](https://github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis) |
+
+Customer Segmentation Analysis, Built on three tools using UK based Online Retail dataset
+
+| Project | Tool | Link |
+|---|---|---|
+| 🗄️ Customer Segmentation Analysis | Excel |  |
+| 📊 Customer Segmentation Analysis | Power BI |  |
+| 🗄️ Customer Segmentation Analysis | SQL Server |  |
+---
 
 ## 🤝 Connect With Me
 
