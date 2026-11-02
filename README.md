@@ -412,7 +412,7 @@ Customer Segmentation Analysis, Built on three tools using UK based Online Retai
 
 | Project | Tool | Link |
 |---|---|---|
-| 🗄️ Customer Segmentation Analysis | Excel |  |
+| 🗄️ Customer Segmentation Analysis | Excel | [github.com/shivanand-Mathapati-Analyst/excel-customer-segmentation-analysis](https://github.com/shivanand-Mathapati-Analyst/excel-customer-segmentation-analysis) |
 | 📊 Customer Segmentation Analysis | Power BI |  |
 | 🗄️ Customer Segmentation Analysis | SQL Server |  |
 ---
