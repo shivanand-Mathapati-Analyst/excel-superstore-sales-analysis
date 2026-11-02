@@ -28,6 +28,7 @@
 - [Excel Formulas Used](#-excel-formulas-used)
 - [File Structure](#-file-structure)
 - [How to Use](#-how-to-use)
+- [Related Projects](#-related-projects)
 - [Connect With Me](#-connect-with-me)
 
 ---
