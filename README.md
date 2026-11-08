@@ -7,8 +7,6 @@
 
 [![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![Pivot Tables](https://img.shields.io/badge/Feature-Pivot%20Tables-2E7D32?style=for-the-badge)](#)
-[![Analysis](https://img.shields.io/badge/Analysis-Time%20Series-blue?style=for-the-badge)](#)
-[![Dataset](https://img.shields.io/badge/Dataset-Superstore%20Kaggle-orange?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 
 
