@@ -1,3 +1,5 @@
+<div align="center">
+
 # 📊 Superstore Sales Performance Analysis — Excel Dashboard
 
 ### End-to-end retail sales dashboard built with Advanced Pivot Tables on the Sample Superstore dataset
