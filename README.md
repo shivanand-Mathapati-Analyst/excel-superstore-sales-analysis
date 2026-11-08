@@ -11,6 +11,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Superstore%20Kaggle-orange?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 
+</div>
 ---
 
 ## 🗂️ Table of Contents
