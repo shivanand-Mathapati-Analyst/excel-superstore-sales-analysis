@@ -27,7 +27,6 @@
 - [Business Recommendations](#-business-recommendations)
 - [Excel Formulas Used](#-excel-formulas-used)
 - [File Structure](#-file-structure)
-- [How to Use](#-how-to-use)
 - [Related Projects](#-related-projects)
 - [Connect With Me](#-connect-with-me)
 
@@ -385,19 +384,6 @@ Raw Data  →  Data Cleaning  →  EDA  →  KPI Calculation  →  Time Analysis
 │
 └── 📄 README.md
 ```
-
----
-
-## 🚀 How to Use
-
-1. **Download** the `.xlsx` file from this repository
-2. **Open** it in Microsoft Excel (2016 or later recommended)
-3. **Start** with the `🏠 Project Overview` sheet for context
-4. **Explore** `🔍 EDA` and `🎯 KPI Metrics` for data insights
-5. **Interact** with the `📊 Sales_Performance_Dashboard` using slicers
-6. **Review** `💡 Business_Insights_&_Actions` for strategic takeaways
-
-> ⚠️ **Note:** For the best experience with slicers and pivot charts, open with Microsoft Excel (not Google Sheets or LibreOffice).
 
 ---
 ## 🔗 Related Projects
