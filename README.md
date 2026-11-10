@@ -441,11 +441,11 @@ This project is licensed under the **MIT License** — feel free to use the SQL 
 
 ⭐ **If you found this project useful, consider giving it a star!** ⭐
 
-</div>
-
 ---
 
 ### 🚀 Built with ❤️ using Excel, Pivot Tables & Data Analytics
+
+</div>
 
 ---
 > **Tags:** `#DataAnalytics` `#Excel` `#RetailAnalysis` `#Dashboard` `#KPI` `#DataVisualization` `#PortfolioProject`
