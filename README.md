@@ -31,7 +31,7 @@
 - [Excel Formulas Used](#-excel-formulas-used)
 - [File Structure](#-file-structure)
 - [Related Projects](#-related-projects)
-- [Connect With Me](#-connect-with-me)
+- [Author](#-Author)
 
 ---
 
